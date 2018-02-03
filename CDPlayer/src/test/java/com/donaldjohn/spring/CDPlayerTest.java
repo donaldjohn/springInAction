@@ -1,4 +1,4 @@
-package springInAction;
+package com.donaldjohn.spring;
 
 import org.junit.Assert;
 import org.junit.Test;

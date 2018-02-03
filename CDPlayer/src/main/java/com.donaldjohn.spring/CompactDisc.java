@@ -1,4 +1,4 @@
-package springInAction;
+package com.donaldjohn.spring;
 
 /**
  * Created by donaldjohn on 1/30/18.

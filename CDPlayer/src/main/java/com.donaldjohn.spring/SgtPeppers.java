@@ -1,4 +1,4 @@
-package springInAction;
+package com.donaldjohn.spring;
 
 import org.springframework.stereotype.Component;
 
